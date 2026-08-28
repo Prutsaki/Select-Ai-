@@ -1,0 +1,6 @@
+{
+  "name": "TypeSprint - Speed Typing Arena",
+  "description": "Interactive speed typing test application with real-time WPM calculation, visual keyboard feedback, customizable modes, sound synthesizer, and bilingual Thai-English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
